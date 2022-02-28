@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/UDPProxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ServerIdUpperCaseUDPTestTimeout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ValidatorLongSumUDP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ServerIdUpperCaseUDP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
